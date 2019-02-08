@@ -1,0 +1,9 @@
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.csprojAssemblyReference.cache
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.AssemblyInfoInputs.cache
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.AssemblyInfo.cs
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\bin\Debug\netstandard2.0\UnitTestCourse.deps.json
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\bin\Debug\netstandard2.0\UnitTestCourse.dll
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\bin\Debug\netstandard2.0\UnitTestCourse.pdb
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.dll
+C:\Users\sarah.giblett\source\repos\UnitTestCourse\UnitTestCourse\obj\Debug\netstandard2.0\UnitTestCourse.pdb
